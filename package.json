@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3",
+    "node": "^17.2.0"
+  },
+  "name": "employee-tracker",
+  "description": "Building a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arios10/employee-tracker.git"
+  },
+  "author": "Angel Rios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arios10/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/arios10/employee-tracker#readme"
+}
